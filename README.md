@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @leytag
-- Apprenti Développeur Lua,Html,Python
+- Apprenti dev Lua,Css,Html,Python
